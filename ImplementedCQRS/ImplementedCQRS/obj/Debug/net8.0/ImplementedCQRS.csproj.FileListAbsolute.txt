@@ -1,0 +1,14 @@
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ImplementedCQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ImplementedCQRS.AssemblyInfoInputs.cache
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ImplementedCQRS.AssemblyInfo.cs
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ImplementedCQRS.csproj.CoreCompileInputs.cache
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\bin\Debug\net8.0\ImplementedCQRS.exe
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\bin\Debug\net8.0\ImplementedCQRS.deps.json
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\bin\Debug\net8.0\ImplementedCQRS.runtimeconfig.json
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\bin\Debug\net8.0\ImplementedCQRS.dll
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\bin\Debug\net8.0\ImplementedCQRS.pdb
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ImplementedCQRS.dll
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\refint\ImplementedCQRS.dll
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ImplementedCQRS.pdb
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ImplementedCQRS.genruntimeconfig.cache
+C:\Users\Junaid\Desktop\ImplementedCQRS\ImplementedCQRS\ImplementedCQRS\obj\Debug\net8.0\ref\ImplementedCQRS.dll
